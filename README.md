@@ -77,3 +77,10 @@ public class JavaMySQLCRUD {
         }
     }
 }
+
+This project demonstrates how a Java application connects to a MySQL database using JDBC and performs the four basic CRUD operations:
+
+* Create – Adds a new student record to the database.
+* Read – Retrieves and displays student records from the database.
+* Update – Changes information in an existing student record.
+* Delete – Removes a student record from the database.
